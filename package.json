@@ -24,7 +24,7 @@
     "base-64": "^1.0.0",
     "buffer": "^6.0.3",
     "dotenv": "^10.0.0",
-    "electron": "^13.1.8",
+    "electron": "^18.3.7",
     "gatsby": "^3.11.0",
     "gatsby-plugin-feed-generator": "^2.0.5",
     "gatsby-plugin-google-fonts-v2": "^1.0.0",
